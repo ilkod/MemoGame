@@ -1,2 +1,1 @@
-# MemoGame
-swift
+My implementation of the game Memo in Swift:)
